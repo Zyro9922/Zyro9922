@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Hasan</h1>
-<h3 align="center">🚀 Software Development Engineer at Amazon, enhancing and adding new features to Amazon FireOS, that powers Amazon Fire Tablets based on AOSP. 🛠️ Former FullStack Developer at CGInfinity. 🌟 GSOC contributor with BoostC++. Currently supercharging my Android skills for the next big adventure!</h3>
+<h3 align="center">
+    🚀 Software Development Engineer at Amazon, enhancing and adding new features to Amazon FireOS, that
+    <br>powers Amazon Fire Tablets based on AOSP.
+    <br>🛠️ Former FullStack Developer at CGInfinity.
+    <br>🌟 GSOC contributor with BoostC++.
+    <br>Currently supercharging my Android skills for the next big adventure!
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
