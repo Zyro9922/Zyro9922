@@ -1,16 +1,45 @@
-<h1 align="center">Hi 👋, I'm Ali Hasan</h1>
-<h3 align="center">
-    🚀 Software Development Engineer at Amazon, enhancing and adding new features to Amazon FireOS, that
-    <br>powers Amazon Fire Tablets based on AOSP.
-    <br>🛠️ Former FullStack Developer at CGInfinity.
-    <br>🌟 GSOC contributor with BoostC++.
-    <br>Currently supercharging my Android skills for the next big adventure!
-</h3>
+<h1 align="center">Hey there! I'm Ali Hasan 👋</h1>
+<h3 align="center">Mobile Engineer | Android Aficionado | AOSP Explorer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/zyro9922/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zyro9922/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zyro9922&label=Profile%20views&color=0e75b6&style=flat" alt="zyro9922" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
+
+🔧 I'm currently a **Mobile Engineer at [Motive](https://gomotive.com/)** — where we’re building AI-powered solutions to enhance safety, productivity, and profitability across industries like logistics, construction, and field services.  
+📱 I specialize in **Android development**, working across **Jetpack Compose, MVVM, and Kotlin**, and have hands-on experience with **deep AOSP customizations**.  
+🔥 Former SDE at **Amazon**, where I contributed to **FireOS**, building and optimizing core system apps for millions of devices.  
+🌐 Previously a full-stack developer at CGInfinity.  
+💡 GSoC 2020 Contributor with **Boost C++**.  
+🚀 On a mission to keep leveling up in Android & System Design!
+
+---
+
+### 🛠 Tech Stack
+**Languages & Frameworks:**  
+Kotlin, Java, Jetpack Compose, C++, C#, Angular, HTML, PHP, Swift  
+**Android:**  
+MVVM, Coroutines, Dagger, Retrofit, Room, Flow, Clean Architecture  
+**Tools & Platforms:**  
+Android Studio, Git, Firebase, MySQL, .NET Core, AOSP
+
+---
+
+### 📬 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/zyro9922/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://github.com/zyro9922" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30" />
+  </a>
+  <a href="https://leetcode.com/zyro9922/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+### 💭 Fun Fact  
+When I’m not refactoring code or tweaking AOSP internals, I’m probably breaking a personal record at the gym or debugging life over chai ☕💡
