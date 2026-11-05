@@ -7,23 +7,21 @@
 
 ---
 
-🔧 I'm a **Mobile Engineer at [Motive](https://gomotive.com/)** — where we're leveraging an AI-powered Integrated Operations Platform to make physical operations safer, more productive, and more profitable.  
-📱 I specialize in **Android development**, working across **Jetpack Compose, MVVM, and Kotlin**, and have hands-on experience with **deep AOSP customizations**.  
+💳 I'm a **Mobile Engineer at [Adyen](https://www.adyen.com/)** — building **Kotlin** payment solutions on Android-based payment terminals as part of the **Payment Client Foundation** team that keeps in-store payments running for retailers worldwide.  
+📱 I specialize in **Android development**, working across **Jetpack Compose, MVVM, and Kotlin**, with hands-on experience in **deep AOSP customizations**.  
+🚛 Former **Mobile Engineer at [Motive](https://gomotive.com/)**, building on a large-scale, AI-powered operations platform used across transport, logistics, construction, and field service.  
 🔥 Former SDE at **Amazon**, where I contributed to **FireOS**, building and optimizing core system apps for millions of devices.  
-🌐 Previously a full-stack developer at CGInfinity.  
+🌐 Previously a full-stack developer at **CGInfinity**.  
 💡 GSoC 2020 Contributor with **Boost C++**.  
-🚀 On a mission to keep leveling up in Android & System Design!
+🚀 On a mission to keep leveling up in Android, Payments & System Design!
 
 ---
 
-## 🚛 About Motive  
+## 💳 About Adyen
 
-- **The Platform:** Founded in 2013, Motive has grown into a premier AI-powered Integrated Operations Platform, bringing together workers, vehicles, equipment, and fleet-related spend into a single ecosystem.  
-- **Enterprise Scale:** Serves nearly 100,000 customers—ranging from small businesses to Fortune 500 enterprises—across transportation, logistics, construction, energy, field service, agriculture, and the public sector.  
-- **Proven Impact (2026 ROI Report):** Driven by real-world data across 7+ industries, organizations utilizing Motive experience:  
-  - Up to **2x faster ROI** and an average of **$1M in savings**.  
-  - Up to an **80% reduction in collisions** within the first year.  
-  - An average of **25 hours saved per week** on operational workflows.  
+- **The Platform:** Founded in 2006 and listed on Euronext Amsterdam, Adyen is a single financial technology platform for **payments, data, and financial products** — letting businesses accept payments online, in-app, and in-store through one integration.  
+- **Global Scale:** Adyen is the payments platform of choice for global enterprises including **Meta, Uber, Microsoft, Spotify, and H&M**, processing transactions across the world at massive scale.  
+- **My Team — Payment Client Foundation:** Owns Adyen's **in-store payment integration** — the low-level payment kernels and client layers running on Android-based terminals — keeping transactions **secure, reliable, and PCI-compliant** for retailers globally.  
 
 ---
 
